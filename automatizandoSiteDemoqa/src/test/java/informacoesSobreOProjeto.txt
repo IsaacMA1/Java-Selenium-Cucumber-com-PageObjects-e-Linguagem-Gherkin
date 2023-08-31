@@ -1,0 +1,12 @@
+
+Na pagina de elementos nao foram feitos testes em Links, Broken links, images Dynamic properties,pois ja fizemos similares nas outras paginas
+
+Na pagina de forms nao foi feito o practice forms pois ja fizemos similares nas outras paginas
+
+Na pagina de alerts,frame & windows nao foram feitos nenhum teste pois ja fizemos similares nas outras paginas
+
+Na pagina de Widgets so foi feito o slider o restante nao foi feito teste pois ja fizemos similares nas outras paginas
+ 
+Na pagina de Interactions nao foram feitos testes em selectable, Resizable e Dragabble pois ja fizemos similares nas outras paginas
+
+Na pagina de Book Store Application nao foram feitos testes
